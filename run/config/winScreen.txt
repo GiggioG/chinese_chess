@@ -1,0 +1,8 @@
+winScreen_player1_won: img\winScreen\player1wins.bmp
+winScreen_player1_won: img\winScreen\player2wins.bmp
+
+exitButton: img\menu\exitBtn.bmp
+exitButtonRect: 1845 25 50 50
+
+playAgainButton: img\menu\playBtn.bmp
+playAgainButtonRect: 781 796 351 163

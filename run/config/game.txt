@@ -1,0 +1,26 @@
+squareSize: 145
+
+Player_1_On_Turn_Rect: 116 712 290 290
+Player_2_On_Turn_Rect: 1514 712 290 290
+
+Player_1_On_Turn_Coin: img\game\player1OnTurn.bmp
+Player_2_On_Turn_Coin: img\game\player2OnTurn.bmp
+
+selectedPawn: img\game\selectedPawn.bmp
+selectedCard: img\game\selectedCard.bmp
+
+cardWH: 320 155
+
+leftTopCard: 118 214
+
+leftBottomCard: 118 429
+
+rightTopCard: 1491 214
+
+rightBottomCard: 1491 429
+
+toLeftCard: 800 12
+
+toRightCard: 800 912
+
+buttonHoverGrow: 5

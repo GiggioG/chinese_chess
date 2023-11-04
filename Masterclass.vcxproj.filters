@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{d7851446-fc73-428f-a4c1-e347e992a3bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{ce42b4b8-2f0b-4cfd-bd29-3e8736198207}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\World.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Grid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Tile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Pawn.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\InputManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Card.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\WinScreen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TextureManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ConfigManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MenuScreen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\World.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Grid.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Tile.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Pawn.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PawnRole.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\InputManager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Coord.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Team.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Debug.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Card.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CardType.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\WinScreen.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\TextureManager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameState.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ConfigManager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MenuScreen.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

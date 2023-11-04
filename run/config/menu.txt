@@ -1,0 +1,4 @@
+background: img\menu\menu.bmp
+
+playButton: img\menu\playBtn.bmp
+playButtonRect: 781 796 351 163
